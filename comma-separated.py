@@ -1,0 +1,5 @@
+value=input("input some comma separated nos:")
+list=value.split(",")
+tuple=tuple(list)
+print ('list:',list)
+print ('tuple:',tuple)
